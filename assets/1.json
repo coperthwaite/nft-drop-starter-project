@@ -1,0 +1,22 @@
+{
+  "name": "Sakura",
+  "symbol": "",
+  "image": "1.png",
+  "collection": {
+    "name": "Coperthwaite's Kanji"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Esxd7d9gvNoFPp2buZoCUVcXgtqeheuDyhnkaLWAXtGE",
+        "share": 100
+      }
+    ]
+  }
+}

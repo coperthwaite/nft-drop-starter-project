@@ -1,0 +1,22 @@
+{
+  "name": "Saw",
+  "symbol": "",
+  "image": "0.png",
+  "collection": {
+    "name": "Coperthwaite's Kanji"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Esxd7d9gvNoFPp2buZoCUVcXgtqeheuDyhnkaLWAXtGE",
+        "share": 100
+      }
+    ]
+  }
+}
